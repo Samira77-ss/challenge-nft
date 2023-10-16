@@ -24,7 +24,8 @@ export default function App() {
             />
           </span>
           <span className="creation">
-            <span className="opacity">Creation of&nbsp;</span> Jules Wyvern
+            <span className="opacity">Creation of&nbsp;</span>{" "}
+            <span className="name">Jules Wyvern</span>
           </span>
         </div>
       </div>
