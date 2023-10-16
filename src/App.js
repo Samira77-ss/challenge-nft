@@ -40,7 +40,7 @@ export default function App() {
         </a>
         , and hosted on
         <a
-          href="https://elaborate-kulfi-d6857f.netlify.app"
+          href="https://subtle-cupcake-3c2898.netlify.app"
           alt="Netlify link"
           target="_blank"
           rel="noreferrer"
