@@ -35,7 +35,7 @@ export default function App() {
         <footer>
           This page was coded by Samira Seyfi
           <a
-            href="https://github.com/Samira77-ss/challenge-nft1"
+            href="https://github.com/Samira77-ss/challenge-nft"
             target="_blank"
             alt="GithHub Profile"
             rel="noreferrer"
